@@ -1,0 +1,14 @@
+{
+  "name": "acres-farm-nodesjs",
+  "version": "1.0.0",
+  "description": "A web application that displays an overview of farm products. More detailed descriptions are available upon selection",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Nicolas Nguyen",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.2"
+  }
+}
