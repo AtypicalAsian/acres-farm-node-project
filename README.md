@@ -8,6 +8,8 @@ To start project, clone this repository, navigate to root directory and run
 $ npm start
 ```
 
+View the web app locally at http://127.0.0.1:8000/
+
 ## Demo
 
 https://github.com/AtypicalAsian/acres-farm-node-project/assets/68703714/2d4fb984-2c56-44a5-8805-4e1445168735
